@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**cdekorte/cdekorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cdekorte&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently a GIT online major. After graduation, I hope to pursue a career in the graphic design/web development field.
+
+I am a beginner to coding, but I hope to learn more. I have experience with production design and some JavaScript knowledge.
+
+In my free time, I enjoy watching short-form videos and relaxing my mind.
+
+### Find Me Online
+
+- [LinkedIn](www.linkedin.com/in/cayden-dekorte)
+
+---
